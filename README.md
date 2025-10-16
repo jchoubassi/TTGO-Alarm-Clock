@@ -44,12 +44,13 @@ Demo Repository:
 
 **To build and upload:**  
 ```bash
+
 pio run -e emulator -t upload
 
+```
 ---
-
 ## Connect with MQTT Explorer
- 
+
 1. Open MQTT Explorer
 2. Connect to broker: mqtt.webhop.org
 3. Publish to topic: /topic/a159236/alarm
