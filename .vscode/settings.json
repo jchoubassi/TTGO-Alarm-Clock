@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "alarm_clock.h": "c",
+        "esp_system.h": "c"
+    }
+}
